@@ -1,1 +1,1 @@
-# QCA-
+# QCA is a new developing technology which can be used to replace excisting CMOS Technology.So I have designed various digital circuits like parity generator,code converters,mux and demux.These circuits have higher efficiency and fast response.
